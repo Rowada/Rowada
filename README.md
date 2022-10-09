@@ -1,31 +1,38 @@
-## **<div align="center">Hey 👋, I'm Josué aka rowada</div>**  
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
   
+<p>Welcome to my github profile!<br> I'm Josué, Web Developper from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
+</p>
+</br>
 
-### <div align="center">I'm a young web developer</div>  
-  
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-</div>  
-
-<br/> 
-
-<br/>  
+**Languages and Tools:**
 
 
-<table><tr><td valign="top" width="50%">
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height = "27" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rowada&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%" />
+</br>
+<details>	
+  <summary><b>⚡ My Github Stats</b></summary>
 
-</td><td valign="top" width="50%">
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rowada&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowada&hide_border=true&layout=compact&theme=dark"/>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowada&hide_border=true&layout=compact&theme=dark" align="center" style="width: 100%" />
+<details>	
+  <summary><b>☄️ My Github Streaks</b></summary>
 
-</td></tr></table>  
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rowada&hide_border=true&layout=compact&theme=dark" />
+</details>
 
-<br/>  
+
+ 
