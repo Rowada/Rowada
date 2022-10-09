@@ -2,7 +2,12 @@
   
 <p>Welcome to my github profile!<br> I'm Josué, Web Developper from France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.
 </p>
-</br>
+
+
+- 🔭 I’m currently working on **Javascript project**
+
+- 🌱 I’m currently learning **Javascript, Typescript**
+
 
 **Languages and Tools:**
 
