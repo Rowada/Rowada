@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Javascript, Typescript**
 
 </br>
-[![Codewars](https://www.codewars.com/users/rowada/badges/large)](https://www.codewars.com/users/rowada)
+
 
 
 ## Languages and Tools
@@ -45,5 +45,5 @@
 </details>
 
 
-
+[![Codewars](https://www.codewars.com/users/rowada/badges/large)](https://www.codewars.com/users/rowada)
  
