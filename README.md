@@ -44,5 +44,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rowada&hide_border=true&layout=compact&theme=dark" />
 </details>
 
+[![Codewars](https://www.codewars.com/users/rowada/badges/large)](https://www.codewars.com/users/rowada)
 
  
