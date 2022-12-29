@@ -45,5 +45,11 @@
 </details>
 
 
+<details>
+  <summary><b>🏷️ Holopin Badges</b></summary>
+  
+  <p><a href="https://holopin.io/@rowada"><img src="https://holopin.me/rowada" alt="@rowada&#;s Holopin board"></a></p>
+  </details>
+
 [![Codewars](https://www.codewars.com/users/rowada/badges/large)](https://www.codewars.com/users/rowada)
  
